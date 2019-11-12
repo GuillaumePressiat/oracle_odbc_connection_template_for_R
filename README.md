@@ -61,5 +61,4 @@ my_oracle <- dbConnect(odbc::odbc(),
                        PWD = rstudioapi::askForPassword('Open, Sesame (password)'))
 ```
 
-See here for more details
 
