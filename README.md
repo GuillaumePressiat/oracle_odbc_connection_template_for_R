@@ -1,4 +1,4 @@
-# oraclyr
+# oracle odbc connection template for R
 
 Not a package, just some tips to connect R, DBI and dplyr to an Oracle database with odbc::odbc
 
