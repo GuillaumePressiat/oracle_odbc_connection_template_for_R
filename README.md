@@ -2,6 +2,9 @@
 
 Not a package, just some tips to connect R, DBI and dplyr to an Oracle database with odbc::odbc
 
+See [here](https://guillaumepressiat.github.io/blog/2019/11/oraclyr) for full explanation. 
+Most importantly: if your Oracle client is 32b, then use R 32b.
+
 Then you can use dplyr on oracle tables:
 
 ```r
